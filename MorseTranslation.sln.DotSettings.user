@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=54d9a9d8_002Dfef0_002D411f_002Dbccf_002D37fb39357685/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MethodWithEmptyFormate" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E364CE96-3694-440C-9F64-DD1A57033BA0::net5.0::MorseTest.Tests.MethodWithNullArgumentExeption&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E364CE96-3694-440C-9F64-DD1A57033BA0::net5.0::MorseTest.Tests.MethodWithEmptyReturn&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E364CE96-3694-440C-9F64-DD1A57033BA0::net5.0::MorseTest.Tests.MethodReturnOnlyNumber&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E364CE96-3694-440C-9F64-DD1A57033BA0::net5.0::MorseTest.Tests.MethodReturnNumbers&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E364CE96-3694-440C-9F64-DD1A57033BA0::net5.0::MorseTest.Tests.MethodReturnNumbersAndSpacing&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
